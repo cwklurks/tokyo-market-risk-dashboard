@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# MacOS
+.DS_Store
+
+# Local configuration
+*.env
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Streamlit caches
+.stlcache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/ 
